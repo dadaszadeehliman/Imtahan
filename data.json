@@ -1,0 +1,29 @@
+{
+  "shop": [
+    {
+      "img": "https://preview.colorlib.com/theme/shop/img/l5.jpg",
+      "name": "Long Sleeve shirt",
+      "money": "$150.00",
+      "id": "1"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/shop/img/l6.jpg",
+      "name": "Long Sleeve shirt",
+      "money": "$150.00",
+      "id": "2"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/shop/img/l7.jpg",
+      "name": "Long Sleeve shirt",
+      "money": "$150.00",
+      "id": "3"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/shop/img/l8.jpg",
+      "name": "Long Sleeve shirt",
+      "money": "$150.00",
+      "id": "4"
+    }
+  ],
+  "favoritler": []
+}
